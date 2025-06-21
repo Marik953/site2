@@ -1,0 +1,24 @@
+.tak1 {
+    height: 200px;
+}
+.tak2 {
+    height: 50px;
+}
+header {
+    background-color: blanchedalmond;
+    height: 50px;
+}
+footer {
+    background-color:black;
+}
+#ber {
+    float: right;
+    padding-right: 15px;
+}
+#der {
+    float: left;
+    padding-left: 15px;
+}
+#ere {
+    color: aliceblue;
+}
